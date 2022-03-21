@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\Practice SAC\Practice SAC\bin\Debug\Practice SAC.exe.config
+C:\Users\andre\source\repos\Practice SAC\Practice SAC\bin\Debug\Practice SAC.exe
+C:\Users\andre\source\repos\Practice SAC\Practice SAC\bin\Debug\Practice SAC.pdb
+C:\Users\andre\source\repos\Practice SAC\Practice SAC\obj\Debug\Practice SAC.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Practice SAC\Practice SAC\obj\Debug\Practice SAC.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\Practice SAC\Practice SAC\obj\Debug\Practice_SAC.Form1.resources
+C:\Users\andre\source\repos\Practice SAC\Practice SAC\obj\Debug\Practice_SAC.Properties.Resources.resources
+C:\Users\andre\source\repos\Practice SAC\Practice SAC\obj\Debug\Practice SAC.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Practice SAC\Practice SAC\obj\Debug\Practice SAC.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Practice SAC\Practice SAC\obj\Debug\Practice SAC.exe
+C:\Users\andre\source\repos\Practice SAC\Practice SAC\obj\Debug\Practice SAC.pdb
